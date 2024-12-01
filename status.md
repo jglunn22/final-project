@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have changed the sprites except for flag pole and alien. I have changed the background music. To me I feel like I have conqured teh world doing this. 
+I have changed the sprites except for flag pole and alien. I have changed the background music. To me I feel like I have conqured teh world doing this. I have also changed the project from what it was orginally. 
 
 #### What have you not done for your project yet?
 
