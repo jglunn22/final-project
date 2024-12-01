@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Jenna Lunn
 
 #### Your section leader's name
 
-TODO
+ Bryan Li (thats is the lab TA) I think this is right? 
 
 #### Project title
 
-TODO
+Vampio
 
 ***
 
@@ -18,12 +18,24 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have changed the sprites except for flag pole and alien. I have changed the background music. To me I feel like I have conqured teh world doing this. 
 
 #### What have you not done for your project yet?
 
-TODO
+Add the pyramid, flagpole, vampire and possibly some other sound effects.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Just about everything. I have watched the videoes that follow the code given by the Harvad course, except it just sound like a bunch of words to me. I changed parts of the code and have seen how it changes. The addition of the pyramid and flag pole is seeming impossible. I am unable to figure out how to add it.
+
+
+
+
+
+
+
+
+ 
+
+
+ 
